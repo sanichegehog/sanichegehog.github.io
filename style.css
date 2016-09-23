@@ -1,0 +1,20 @@
+
+body {
+    background-image: url("");    
+}
+
+.iamthe1 {
+  text-align: center;
+  color: rgb(0,0,250);
+  font-family: "Courier New", Times, serif;
+}
+
+.Fredbody {
+  color: rgb(0, 0, 0);
+  text-align: left;
+     font-size: 125%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+    margin-left: 0px;
+}}
